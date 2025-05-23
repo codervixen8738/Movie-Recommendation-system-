@@ -1,5 +1,24 @@
 # Movie-Recommendation-system-
 This project explores the aspects of EDA .
+movie-recommendation-system/
+│
+├── data/
+│   ├── movies.csv
+│   ├── ratings.csv
+│   └── (optional) users.csv
+│
+├── notebooks/
+│   └── movie_recommender.ipynb
+│
+├── src/
+│   ├── data_processing.py
+│   ├── recommendation.py
+│   └── visualization.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+
 # Movie Recommendation System
 
 ## Overview
